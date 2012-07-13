@@ -1,0 +1,13 @@
+=== Google Street View Images ===
+Contributors: Anthony Mills <me@anthony-mills.com>
+URL: https://github.com/anthony-mills/Street-View-images
+
+=== Introduction ===
+
+Simple PHP wrapper class allowing the retrival of an image for a location from the Google Street View Images API.
+
+=== Usage ===
+
+To use the class in your code simply include the class, instasiate. Then call the getImage method providing a location address or the position (longitude, latitude) as a parameter.
+
+See example.php to see a basic use example of the class.  
