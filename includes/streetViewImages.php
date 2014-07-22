@@ -120,6 +120,8 @@
 	 * 
 	 * Build a request and retrive images from the Google Street View Images API
 	 * 
+	 * @param string $imageLocation
+	 * 
 	 * @return string $imageResult
 	 */
 	public function getImage($imageLocation)
